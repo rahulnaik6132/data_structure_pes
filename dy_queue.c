@@ -1,9 +1,3 @@
-/*
-Example 2 : Dynamic Array Linear Queue
-Authour : Rahul R Naik
-PRN : PES1202404471
-Date : 22 NOV 2024
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
