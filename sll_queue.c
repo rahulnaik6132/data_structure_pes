@@ -1,11 +1,3 @@
-/*
-Example 1 : IMPLEMENTATION OF QUEUE ADT USING SLL
-Program : 1
-Authour : Rahul R Naik
-PRN : PES1202404471
-Date : 16 DEC 2024
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 
