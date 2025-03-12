@@ -1,9 +1,3 @@
-/*
-    Name : Rahul Ravikumar Naik
-    Topic : Adjajency List
-    Class : B
-    SRN : PES1PG24CA133
-*/
 #include <stdio.h>
 #include <stdlib.h>
 
