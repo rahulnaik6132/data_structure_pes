@@ -1,10 +1,3 @@
-/*
-    Name : Rahul Ravikumar Naik
-    Topic : Hash Table
-    Class : B
-    SRN : PES1PG24CA133
-*/
-
 #include <stdio.h>
 #define TABLE_SIZE 10
 
