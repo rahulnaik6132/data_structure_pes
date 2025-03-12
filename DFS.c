@@ -1,5 +1,3 @@
-// B PES1PG24CA119 PRAN BOPANNA KK
-
 #include <stdio.h>
 #include <stdbool.h>
 
